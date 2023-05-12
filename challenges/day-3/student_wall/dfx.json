@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "student_wall": {
+      "main": "main.mo",
+      "type": "motoko"
+    }
+  }
+}
